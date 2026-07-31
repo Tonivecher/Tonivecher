@@ -65,140 +65,144 @@
        font-size="17" font-weight="750">
       <g>
         <rect width="150" height="48" rx="24" fill="url(#glass)"/>
-        <path d="M20 27a9 9 0 0 1 14 0M23 23a5 5 0 0 1 8 0M27 30h1"
-              fill="none" stroke="#52E6FF" stroke-width="2.2"
+        <circle cx="24" cy="24" r="10" fill="none" stroke="#52E6FF"
+                stroke-width="2.2"/>
+        <path d="M14 24h20M24 14c4 4 4 16 0 20M24 14c-4 4-4 16 0 20"
+              fill="none" stroke="#52E6FF" stroke-width="1.8"
               stroke-linecap="round"/>
-        <text x="46" y="30" fill="#F1F5FF">УДАЛЁННО</text>
+        <text x="44" y="30" fill="#F1F5FF">УДАЛЁННО</text>
       </g>
       <g transform="translate(166)">
         <rect width="166" height="48" rx="24" fill="url(#glass)"/>
-        <path d="M26 15c6 2 9 7 8 13l-6 6-8-1-3-8c2-5 4-8 9-10Z"
-              fill="none" stroke="#A88BFF" stroke-width="2"/>
-        <path d="M20 33l-3 4 6-2M31 31l4 4-1-6" fill="none"
-              stroke="#A88BFF" stroke-width="2" stroke-linecap="round"/>
-        <text x="48" y="30" fill="#F1F5FF">ПРОДАКШЕН</text>
+        <circle cx="24" cy="24" r="10" fill="none" stroke="#A88BFF"
+                stroke-width="2.2"/>
+        <path d="M19 29l10-10M22 19h7v7" fill="none"
+              stroke="#A88BFF" stroke-width="2.2" stroke-linecap="round"
+              stroke-linejoin="round"/>
+        <text x="44" y="30" fill="#F1F5FF">ПРОДАКШЕН</text>
       </g>
       <g transform="translate(348)">
         <rect width="238" height="48" rx="24" fill="url(#glass)"/>
-        <circle cx="24" cy="20" r="5" fill="none" stroke="#FFAD68" stroke-width="2"/>
-        <path d="M15 35c1-8 17-8 18 0M31 23l4 4 7-8" fill="none"
-              stroke="#FFAD68" stroke-width="2" stroke-linecap="round"
+        <circle cx="22" cy="20" r="5" fill="none" stroke="#FFAD68"
+                stroke-width="2"/>
+        <path d="M14 34c1-8 15-8 16 0M30 23l4 4 7-8" fill="none"
+              stroke="#FFAD68" stroke-width="2.2" stroke-linecap="round"
               stroke-linejoin="round"/>
-        <text x="48" y="30" fill="#F1F5FF">КОНТРОЛЬ ЧЕЛОВЕКА</text>
+        <text x="46" y="30" fill="#F1F5FF">КОНТРОЛЬ ЧЕЛОВЕКА</text>
       </g>
     </g>
   </g>
 
-  <g id="product-system" transform="translate(930 230)"
+  <g id="product-system" transform="translate(930 215)"
      font-family="'Avenir Next','Segoe UI Variable Display','Segoe UI',sans-serif">
     <g fill="none" stroke="url(#accent)" stroke-width="2.2"
        stroke-linecap="round" opacity=".55">
-      <path d="M0-74V-111"/>
-      <path d="M-64-37L-112-64"/>
-      <path d="M64-37L112-64"/>
-      <path d="M-64 37L-112 64"/>
-      <path d="M64 37L112 64"/>
-      <path d="M0 74V111"/>
+      <path d="M0-70V-97"/>
+      <path d="M-61-33L-99-53"/>
+      <path d="M61-33L99-53"/>
+      <path d="M-61 33L-99 54"/>
+      <path d="M61 33L99 54"/>
+      <path d="M0 70V97"/>
     </g>
 
-    <circle r="82" fill="#FFFFFF" fill-opacity=".035"/>
+    <circle r="78" fill="#FFFFFF" fill-opacity=".035"/>
     <circle r="68" fill="url(#glass)"/>
-    <path d="M0-38 25-24 0-9-25-24ZM-25-18 0-3v29l-25-15ZM25-18 0-3v29l25-15Z"
+    <path d="M0-39 23-26 0-13-23-26ZM-23-20 0-7v26l-23-13ZM23-20 0-7v26l23-13Z"
           fill="none" stroke="url(#accent)" stroke-width="3"
           stroke-linejoin="round"/>
-    <text x="0" y="46" text-anchor="middle" fill="#F7F9FF"
-          font-size="18" font-weight="800" letter-spacing="1">РАБОЧАЯ СИСТЕМА</text>
+    <text x="0" y="40" text-anchor="middle" fill="#F7F9FF"
+          font-size="17" font-weight="800" letter-spacing=".8">РАБОЧАЯ</text>
+    <text x="0" y="59" text-anchor="middle" fill="#C8D2E6"
+          font-size="15" font-weight="750" letter-spacing="1.5">СИСТЕМА</text>
 
-    <g transform="translate(0 -155)">
-      <circle r="54" fill="#FFFFFF" fill-opacity=".035"/>
-      <circle r="45" fill="#1EAAF1" fill-opacity=".28"/>
-      <path d="M-19-7 20-22 8 21 0 7-10 15-7 3Z"
+    <g transform="translate(0 -144)">
+      <circle r="49" fill="#FFFFFF" fill-opacity=".035"/>
+      <circle r="41" fill="#1EAAF1" fill-opacity=".28"/>
+      <path d="M-17-10 17-22 7 12 0 2-9 9-6-2Z"
             fill="none" stroke="#EAF8FF" stroke-width="3"
             stroke-linejoin="round"/>
-      <text x="0" y="33" text-anchor="middle" fill="#F5F8FF"
-            font-size="15" font-weight="800">TELEGRAM</text>
+      <text x="0" y="31" text-anchor="middle" fill="#F5F8FF"
+            font-size="16" font-weight="800">TELEGRAM</text>
     </g>
 
-    <g transform="translate(-145 -84)">
-      <circle r="54" fill="#FFFFFF" fill-opacity=".035"/>
-      <circle r="45" fill="#6A82FF" fill-opacity=".25"/>
-      <path d="M-17-15h-9v30h9M17-15h9v30h-9M-8 0h16"
+    <g transform="translate(-142 -76)">
+      <circle r="49" fill="#FFFFFF" fill-opacity=".035"/>
+      <circle r="41" fill="#6A82FF" fill-opacity=".25"/>
+      <path d="M-13-20h-8v27h8M13-20h8v27h-8M-7-7h14"
             fill="none" stroke="#EEF2FF" stroke-width="3"
             stroke-linecap="round" stroke-linejoin="round"/>
-      <circle cx="-5" cy="0" r="3" fill="#EEF2FF"/>
-      <circle cx="5" cy="0" r="3" fill="#EEF2FF"/>
-      <text x="0" y="33" text-anchor="middle" fill="#F5F8FF"
+      <circle cx="-5" cy="-7" r="2.5" fill="#EEF2FF"/>
+      <circle cx="5" cy="-7" r="2.5" fill="#EEF2FF"/>
+      <text x="0" y="31" text-anchor="middle" fill="#F5F8FF"
             font-size="16" font-weight="800">API</text>
     </g>
 
-    <g transform="translate(145 -84)">
-      <circle r="54" fill="#FFFFFF" fill-opacity=".035"/>
-      <circle r="45" fill="#A06CF8" fill-opacity=".26"/>
-      <rect x="-20" y="-16" width="40" height="30" rx="9"
+    <g transform="translate(142 -76)">
+      <circle r="49" fill="#FFFFFF" fill-opacity=".035"/>
+      <circle r="41" fill="#A06CF8" fill-opacity=".26"/>
+      <rect x="-18" y="-21" width="36" height="27" rx="8"
             fill="none" stroke="#F5EEFF" stroke-width="3"/>
-      <path d="M0-23v7M-12 22v-8M12 22v-8"
+      <path d="M0-27v6M-11 12V6M11 12V6"
             fill="none" stroke="#F5EEFF" stroke-width="3"
             stroke-linecap="round"/>
-      <circle cx="-9" cy="-1" r="3" fill="#F5EEFF"/>
-      <circle cx="9" cy="-1" r="3" fill="#F5EEFF"/>
-      <path d="M-8 7h16" stroke="#F5EEFF" stroke-width="3"
+      <circle cx="-8" cy="-8" r="2.7" fill="#F5EEFF"/>
+      <circle cx="8" cy="-8" r="2.7" fill="#F5EEFF"/>
+      <path d="M-7-1h14" stroke="#F5EEFF" stroke-width="3"
             stroke-linecap="round"/>
-      <text x="0" y="33" text-anchor="middle" fill="#F5F8FF"
+      <text x="0" y="31" text-anchor="middle" fill="#F5F8FF"
             font-size="16" font-weight="800">БОТЫ</text>
     </g>
 
-    <g transform="translate(-145 84)">
-      <circle r="54" fill="#FFFFFF" fill-opacity=".035"/>
-      <circle r="45" fill="#F1A24D" fill-opacity=".24"/>
-      <path d="M-16-22H9l12 12v31h-37Z"
+    <g transform="translate(-142 76)">
+      <circle r="49" fill="#FFFFFF" fill-opacity=".035"/>
+      <circle r="41" fill="#F1A24D" fill-opacity=".24"/>
+      <path d="M-15-24H7l11 11V10h-33Z"
             fill="none" stroke="#FFF2E1" stroke-width="3"
             stroke-linejoin="round"/>
-      <path d="M9-22v12h12M-8-1H12M-8 8H8"
+      <path d="M7-24v11h11M-8-5H10M-8 3H7"
             fill="none" stroke="#FFF2E1" stroke-width="3"
             stroke-linecap="round"/>
-      <text x="0" y="33" text-anchor="middle" fill="#F5F8FF"
+      <text x="0" y="31" text-anchor="middle" fill="#F5F8FF"
             font-size="16" font-weight="800">ФАЙЛЫ</text>
     </g>
 
-    <g transform="translate(145 84)">
-      <circle r="54" fill="#FFFFFF" fill-opacity=".035"/>
-      <circle r="45" fill="#F06C82" fill-opacity=".24"/>
-      <circle cx="-11" cy="-9" r="9" fill="none"
+    <g transform="translate(142 76)">
+      <circle r="49" fill="#FFFFFF" fill-opacity=".035"/>
+      <circle r="41" fill="#F06C82" fill-opacity=".24"/>
+      <circle cx="-10" cy="-15" r="8" fill="none"
               stroke="#FFF0F3" stroke-width="3"/>
-      <circle cx="12" cy="-12" r="7" fill="none"
+      <circle cx="11" cy="-17" r="6" fill="none"
               stroke="#FFF0F3" stroke-width="3"/>
-      <path d="M-28 19c1-18 33-18 34 0M5 17c1-13 23-13 25 0"
+      <path d="M-24 9c1-15 29-15 30 0M5 7c1-11 20-11 21 0"
             fill="none" stroke="#FFF0F3" stroke-width="3"
             stroke-linecap="round"/>
-      <text x="0" y="33" text-anchor="middle" fill="#F5F8FF"
+      <text x="0" y="31" text-anchor="middle" fill="#F5F8FF"
             font-size="16" font-weight="800">АГЕНТЫ</text>
     </g>
 
-    <g transform="translate(0 155)">
-      <circle r="54" fill="#FFFFFF" fill-opacity=".035"/>
-      <circle r="45" fill="#3DD6A0" fill-opacity=".23"/>
-      <path d="M0-24c8 7 15 8 23 9v13c0 15-10 24-23 31C-13 22-23 13-23-2v-13c8-1 15-2 23-9Z"
+    <g transform="translate(0 144)">
+      <circle r="49" fill="#FFFFFF" fill-opacity=".035"/>
+      <circle r="41" fill="#3DD6A0" fill-opacity=".23"/>
+      <path d="M0-25c7 6 13 7 20 8v11c0 12-8 20-20 26-12-6-20-14-20-26v-11c7-1 13-2 20-8Z"
             fill="none" stroke="#E9FFF7" stroke-width="3"
             stroke-linejoin="round"/>
-      <path d="m-10 1 7 7L11-7" fill="none"
+      <path d="m-9-5 6 6L10-11" fill="none"
             stroke="#E9FFF7" stroke-width="3"
             stroke-linecap="round" stroke-linejoin="round"/>
-      <text x="0" y="38" text-anchor="middle" fill="#F5F8FF"
-            font-size="15" font-weight="800">ПРОВЕРКА</text>
+      <text x="0" y="31" text-anchor="middle" fill="#F5F8FF"
+            font-size="16" font-weight="800">ПРОВЕРКА</text>
     </g>
 
     <g fill="#FFFFFF">
-      <circle cx="-215" cy="-30" r="3" opacity=".5"/>
-      <circle cx="208" cy="4" r="4" opacity=".38"/>
-      <circle cx="-198" cy="150" r="2" opacity=".5"/>
-      <circle cx="208" cy="-146" r="2" opacity=".55"/>
-      <path d="M-210-112h18M-201-121v18" stroke="#52E6FF"
+      <circle cx="-211" cy="-28" r="3" opacity=".5"/>
+      <circle cx="205" cy="3" r="4" opacity=".38"/>
+      <path d="M-205-108h18M-196-117v18" stroke="#52E6FF"
             stroke-width="2" stroke-linecap="round" opacity=".45"/>
-      <path d="M190 128h16M198 120v16" stroke="#FFAD68"
+      <path d="M188 119h16M196 111v16" stroke="#FFAD68"
             stroke-width="2" stroke-linecap="round" opacity=".45"/>
     </g>
   </g>
 
-  <rect x="62" y="413" width="1076" height="2" rx="1"
+  <rect x="62" y="423" width="1076" height="2" rx="1"
         fill="url(#accent)" opacity=".52"/>
 </svg>
