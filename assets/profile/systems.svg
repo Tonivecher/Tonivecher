@@ -1,89 +1,109 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      width="1200" height="330" viewBox="0 0 1200 330"
      role="img" aria-labelledby="title desc">
-  <title id="title">От задачи до проверенного результата</title>
-  <desc id="desc">Telegram, веб-интерфейс и документы поступают в API, проходят через ботов, агентов и автоматизацию, затем через проверку и решение владельца попадают в продакшен.</desc>
+  <title id="title">Как всё сходится в рабочий продукт</title>
+  <desc id="desc">Задача проходит через каналы, серверное состояние, исполнение, проверку человека и выпуск.</desc>
 
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#080B14"/>
-      <stop offset="1" stop-color="#12172A"/>
+      <stop offset="1" stop-color="#15152B"/>
     </linearGradient>
     <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".15"/>
-      <stop offset=".55" stop-color="#FFFFFF" stop-opacity=".07"/>
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".16"/>
+      <stop offset=".55" stop-color="#FFFFFF" stop-opacity=".075"/>
       <stop offset="1" stop-color="#FFFFFF" stop-opacity=".025"/>
     </linearGradient>
     <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#67E8F9"/>
-      <stop offset=".48" stop-color="#A78BFA"/>
-      <stop offset="1" stop-color="#FDBA74"/>
+      <stop offset="0" stop-color="#52E6FF"/>
+      <stop offset=".5" stop-color="#A88BFF"/>
+      <stop offset="1" stop-color="#FFAD68"/>
     </linearGradient>
-    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5"
-            markerWidth="7" markerHeight="7" orient="auto">
-      <path d="M0 0L10 5L0 10Z" fill="#A78BFA"/>
-    </marker>
   </defs>
 
   <rect width="1200" height="330" rx="34" fill="url(#background)"/>
-  <ellipse cx="220" cy="340" rx="300" ry="180" fill="#67E8F9" opacity=".06"/>
-  <ellipse cx="920" cy="0" rx="330" ry="190" fill="#A78BFA" opacity=".08"/>
+  <ellipse cx="170" cy="350" rx="350" ry="190" fill="#52E6FF" opacity=".07"/>
+  <ellipse cx="1020" cy="-20" rx="370" ry="210" fill="#A88BFF" opacity=".08"/>
 
   <g transform="translate(58 42)"
      font-family="'Avenir Next','Segoe UI Variable Display','Segoe UI',sans-serif">
     <text x="0" y="0" dominant-baseline="hanging"
-          fill="#F5F7FF" font-size="38" font-weight="780" letter-spacing="-1">
-      Один контур вместо разрозненных сервисов
+          fill="#F5F7FF" font-size="40" font-weight="800" letter-spacing="-1">
+      Как всё сходится в рабочий продукт
     </text>
-    <text x="1" y="56" dominant-baseline="hanging"
-          fill="#8F9BB1" font-size="21" font-weight="550">
-      Входы, исполнение, проверка и эксплуатация остаются частью одного продукта.
+    <text x="1" y="57" dominant-baseline="hanging"
+          fill="#98A4B9" font-size="21" font-weight="550">
+      У задачи есть состояние, проверки и человек, который отвечает за выпуск.
     </text>
   </g>
 
-  <path d="M150 286H1055" fill="none" stroke="url(#flow)"
-        stroke-width="4" stroke-linecap="round" marker-end="url(#arrow)" opacity=".72"/>
-
   <g transform="translate(58 142)"
      font-family="'Avenir Next','Segoe UI Variable Display','Segoe UI',sans-serif">
-    <g transform="translate(0)">
+    <g>
       <rect width="200" height="126" rx="30" fill="url(#glass)"/>
-      <circle cx="34" cy="35" r="7" fill="#67E8F9"/>
-      <text x="56" y="42" fill="#F5F7FF" font-size="23" font-weight="760">ВХОДЫ</text>
-      <text x="26" y="82" fill="#B6C0D3" font-size="19">Telegram · Web</text>
-      <text x="26" y="108" fill="#8793AA" font-size="18">файлы · формы</text>
+      <path d="M25 18h26a8 8 0 0 1 8 8v12a8 8 0 0 1-8 8H39l-10 9v-9h-4a8 8 0 0 1-8-8V26a8 8 0 0 1 8-8Z"
+            fill="none" stroke="#52E6FF" stroke-width="2.5"
+            stroke-linejoin="round"/>
+      <text x="72" y="39" fill="#F5F7FF" font-size="22" font-weight="800">КАНАЛЫ</text>
+      <text x="26" y="83" fill="#C0C9D9" font-size="19">Telegram · Web</text>
+      <text x="26" y="109" fill="#8995AA" font-size="18">формы · файлы</text>
     </g>
 
     <g transform="translate(220)">
       <rect width="200" height="126" rx="30" fill="url(#glass)"/>
-      <circle cx="34" cy="35" r="7" fill="#79D9FF"/>
-      <text x="56" y="42" fill="#F5F7FF" font-size="23" font-weight="760">ЯДРО</text>
-      <text x="26" y="82" fill="#B6C0D3" font-size="19">API · состояние</text>
-      <text x="26" y="108" fill="#8793AA" font-size="18">права · история</text>
+      <path d="M19 21h-7v25h7M55 21h7v25h-7M28 34h18"
+            fill="none" stroke="#70D8FF" stroke-width="2.7"
+            stroke-linecap="round"/>
+      <circle cx="32" cy="34" r="3" fill="#70D8FF"/>
+      <circle cx="42" cy="34" r="3" fill="#70D8FF"/>
+      <text x="72" y="39" fill="#F5F7FF" font-size="22" font-weight="800">ЯДРО</text>
+      <text x="26" y="83" fill="#C0C9D9" font-size="19">API · состояние</text>
+      <text x="26" y="109" fill="#8995AA" font-size="18">права · история</text>
     </g>
 
     <g transform="translate(440)">
       <rect width="200" height="126" rx="30" fill="url(#glass)"/>
-      <circle cx="34" cy="35" r="7" fill="#A78BFA"/>
-      <text x="56" y="42" fill="#F5F7FF" font-size="23" font-weight="760">РАБОТА</text>
-      <text x="26" y="82" fill="#B6C0D3" font-size="19">боты · агенты</text>
-      <text x="26" y="108" fill="#8793AA" font-size="18">n8n · документы</text>
+      <rect x="16" y="20" width="43" height="29" rx="8"
+            fill="none" stroke="#A88BFF" stroke-width="2.6"/>
+      <path d="M37 13v7M25 56v-7M50 56v-7"
+            fill="none" stroke="#A88BFF" stroke-width="2.6"
+            stroke-linecap="round"/>
+      <circle cx="28" cy="34" r="3" fill="#A88BFF"/>
+      <circle cx="47" cy="34" r="3" fill="#A88BFF"/>
+      <text x="72" y="39" fill="#F5F7FF" font-size="22" font-weight="800">РАБОТА</text>
+      <text x="26" y="83" fill="#C0C9D9" font-size="19">боты · агенты</text>
+      <text x="26" y="109" fill="#8995AA" font-size="18">n8n · документы</text>
     </g>
 
     <g transform="translate(660)">
       <rect width="200" height="126" rx="30" fill="url(#glass)"/>
-      <circle cx="34" cy="35" r="7" fill="#C39AFB"/>
-      <text x="56" y="42" fill="#F5F7FF" font-size="23" font-weight="760">КОНТРОЛЬ</text>
-      <text x="26" y="82" fill="#B6C0D3" font-size="19">QA · проверки</text>
-      <text x="26" y="108" fill="#8793AA" font-size="18">решение человека</text>
+      <path d="M37 13c7 6 13 7 20 8v11c0 12-8 20-20 26-12-6-20-14-20-26V21c7-1 13-2 20-8Z"
+            fill="none" stroke="#C293FF" stroke-width="2.5"
+            stroke-linejoin="round"/>
+      <path d="m27 33 7 7 13-14" fill="none"
+            stroke="#C293FF" stroke-width="2.5"
+            stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="72" y="39" fill="#F5F7FF" font-size="22" font-weight="800">ПРОВЕРКА</text>
+      <text x="26" y="83" fill="#C0C9D9" font-size="19">критерии · QA</text>
+      <text x="26" y="109" fill="#8995AA" font-size="18">решение человека</text>
     </g>
 
     <g transform="translate(880)">
       <rect width="200" height="126" rx="30" fill="url(#glass)"/>
-      <circle cx="34" cy="35" r="7" fill="#FDBA74"/>
-      <text x="56" y="42" fill="#F5F7FF" font-size="23" font-weight="760">РЕЗУЛЬТАТ</text>
-      <text x="26" y="82" fill="#B6C0D3" font-size="19">продакшен</text>
-      <text x="26" y="108" fill="#8793AA" font-size="18">выдача · поддержка</text>
+      <path d="M37 14c9 3 15 10 14 20L40 45l-14-2-3-13c3-8 7-13 14-16Z"
+            fill="none" stroke="#FFAD68" stroke-width="2.6"
+            stroke-linejoin="round"/>
+      <path d="M27 43l-5 7 9-3M46 42l7 6-2-9"
+            fill="none" stroke="#FFAD68" stroke-width="2.6"
+            stroke-linecap="round"/>
+      <text x="72" y="39" fill="#F5F7FF" font-size="22" font-weight="800">ВЫПУСК</text>
+      <text x="26" y="83" fill="#C0C9D9" font-size="19">продакшен</text>
+      <text x="26" y="109" fill="#8995AA" font-size="18">результат · поддержка</text>
     </g>
   </g>
+
+  <path d="M150 286H1056" fill="none" stroke="url(#flow)"
+        stroke-width="4" stroke-linecap="round" opacity=".78"/>
+  <circle cx="150" cy="286" r="7" fill="#52E6FF"/>
+  <path d="m1056 286-16-10v20Z" fill="#FFAD68"/>
 </svg>

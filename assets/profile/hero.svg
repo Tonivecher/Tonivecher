@@ -1,131 +1,204 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      width="1200" height="460" viewBox="0 0 1200 460"
      role="img" aria-labelledby="title desc">
-  <title id="title">Николай — AI Product и Full-Stack инженер</title>
-  <desc id="desc">Создаю Telegram-ботов, мультиагентные системы, B2B-продукты и довожу их до продакшена.</desc>
+  <title id="title">AI-продукты до продакшена</title>
+  <desc id="desc">Боты, агенты, интерфейсы и данные собраны в управляемую рабочую систему.</desc>
 
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#070A12"/>
-      <stop offset=".52" stop-color="#0A1020"/>
-      <stop offset="1" stop-color="#101326"/>
+      <stop offset="0" stop-color="#080A12"/>
+      <stop offset=".5" stop-color="#0A1020"/>
+      <stop offset="1" stop-color="#15122B"/>
     </linearGradient>
     <radialGradient id="cyan-glow">
-      <stop offset="0" stop-color="#63E6FF" stop-opacity=".42"/>
-      <stop offset="1" stop-color="#63E6FF" stop-opacity="0"/>
+      <stop offset="0" stop-color="#44D7F4" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#44D7F4" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="violet-glow">
-      <stop offset="0" stop-color="#9A7CFF" stop-opacity=".38"/>
-      <stop offset="1" stop-color="#9A7CFF" stop-opacity="0"/>
+      <stop offset="0" stop-color="#9C7CFF" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#9C7CFF" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="amber-glow">
-      <stop offset="0" stop-color="#FFB45E" stop-opacity=".25"/>
-      <stop offset="1" stop-color="#FFB45E" stop-opacity="0"/>
+    <radialGradient id="orange-glow">
+      <stop offset="0" stop-color="#FF9D5C" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#FF9D5C" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".16"/>
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".17"/>
       <stop offset=".5" stop-color="#FFFFFF" stop-opacity=".07"/>
-      <stop offset="1" stop-color="#FFFFFF" stop-opacity=".03"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity=".025"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#67E8F9"/>
-      <stop offset=".55" stop-color="#A78BFA"/>
-      <stop offset="1" stop-color="#FDBA74"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#52E6FF"/>
+      <stop offset=".52" stop-color="#A88BFF"/>
+      <stop offset="1" stop-color="#FFAD68"/>
     </linearGradient>
   </defs>
 
   <rect width="1200" height="460" rx="38" fill="url(#background)"/>
-  <ellipse cx="1060" cy="32" rx="330" ry="250" fill="url(#violet-glow)"/>
-  <ellipse cx="780" cy="470" rx="420" ry="250" fill="url(#cyan-glow)"/>
-  <ellipse cx="80" cy="0" rx="280" ry="210" fill="url(#amber-glow)"/>
+  <ellipse cx="1060" cy="50" rx="340" ry="260" fill="url(#violet-glow)"/>
+  <ellipse cx="760" cy="470" rx="430" ry="230" fill="url(#cyan-glow)"/>
+  <ellipse cx="70" cy="-20" rx="260" ry="190" fill="url(#orange-glow)"/>
 
-  <g id="identity" transform="translate(62 44)"
+  <g id="copy" transform="translate(62 48)"
      font-family="'Avenir Next','Segoe UI Variable Display','Segoe UI',sans-serif">
-    <text x="0" y="20"
-          fill="#BFC8DA" font-size="19" font-weight="700" letter-spacing="5">
-      AI PRODUCT · FULL-STACK · AUTOMATION
+    <text x="0" y="20" fill="#C2CBDF" font-size="19" font-weight="750"
+          letter-spacing="4">
+      ПРОДУКТОВАЯ РАЗРАБОТКА · AI · АВТОМАТИЗАЦИЯ
     </text>
-    <text x="0" y="102"
-          fill="#F7F9FF" font-size="82" font-weight="800" letter-spacing="-3">
-      НИКОЛАЙ
+    <text x="0" y="102" fill="#F7F9FF" font-size="64" font-weight="850"
+          letter-spacing="-2">
+      AI-ПРОДУКТЫ
     </text>
-    <text x="2" y="186"
-          fill="#DCE4F5" font-size="32" font-weight="650">
-      Связываю ботов, агентов и интерфейсы
+    <text x="0" y="172" fill="#F7F9FF" font-size="64" font-weight="850"
+          letter-spacing="-2">
+      ДО ПРОДАКШЕНА
     </text>
-    <text x="2" y="231"
-          fill="#8F9BB1" font-size="28" font-weight="500">
-      в продукты, которые доходят до продакшена.
+    <text x="2" y="231" fill="#D9E1F2" font-size="29" font-weight="650">
+      Боты, агенты, интерфейсы и данные.
+    </text>
+    <text x="2" y="270" fill="#8F9BB1" font-size="25" font-weight="520">
+      Один маршрут. Проверяемый результат.
     </text>
 
-    <g transform="translate(0 292)"
+    <g transform="translate(0 315)"
        font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
-       font-size="18" font-weight="700">
+       font-size="17" font-weight="750">
       <g>
-        <rect width="164" height="48" rx="24" fill="url(#glass)"/>
-        <circle cx="24" cy="24" r="5" fill="#67E8F9"/>
-        <text x="42" y="30" fill="#EEF3FF">УДАЛЁННО</text>
+        <rect width="150" height="48" rx="24" fill="url(#glass)"/>
+        <path d="M20 27a9 9 0 0 1 14 0M23 23a5 5 0 0 1 8 0M27 30h1"
+              fill="none" stroke="#52E6FF" stroke-width="2.2"
+              stroke-linecap="round"/>
+        <text x="46" y="30" fill="#F1F5FF">УДАЛЁННО</text>
       </g>
-      <g transform="translate(180)">
-        <rect width="180" height="48" rx="24" fill="url(#glass)"/>
-        <circle cx="24" cy="24" r="5" fill="#A78BFA"/>
-        <text x="42" y="30" fill="#EEF3FF">ПРОДАКШЕН</text>
+      <g transform="translate(166)">
+        <rect width="166" height="48" rx="24" fill="url(#glass)"/>
+        <path d="M26 15c6 2 9 7 8 13l-6 6-8-1-3-8c2-5 4-8 9-10Z"
+              fill="none" stroke="#A88BFF" stroke-width="2"/>
+        <path d="M20 33l-3 4 6-2M31 31l4 4-1-6" fill="none"
+              stroke="#A88BFF" stroke-width="2" stroke-linecap="round"/>
+        <text x="48" y="30" fill="#F1F5FF">ПРОДАКШЕН</text>
       </g>
-      <g transform="translate(376)">
-        <rect width="254" height="48" rx="24" fill="url(#glass)"/>
-        <circle cx="24" cy="24" r="5" fill="#FDBA74"/>
-        <text x="42" y="30" fill="#EEF3FF">HUMAN-IN-THE-LOOP</text>
+      <g transform="translate(348)">
+        <rect width="238" height="48" rx="24" fill="url(#glass)"/>
+        <circle cx="24" cy="20" r="5" fill="none" stroke="#FFAD68" stroke-width="2"/>
+        <path d="M15 35c1-8 17-8 18 0M31 23l4 4 7-8" fill="none"
+              stroke="#FFAD68" stroke-width="2" stroke-linecap="round"
+              stroke-linejoin="round"/>
+        <text x="48" y="30" fill="#F1F5FF">КОНТРОЛЬ ЧЕЛОВЕКА</text>
       </g>
     </g>
   </g>
 
-  <g id="system-orbit" transform="translate(896 230)"
+  <g id="product-system" transform="translate(930 230)"
      font-family="'Avenir Next','Segoe UI Variable Display','Segoe UI',sans-serif">
-    <circle r="176" fill="#FFFFFF" fill-opacity=".025"/>
-    <circle r="121" fill="#FFFFFF" fill-opacity=".035"/>
-    <circle r="70" fill="url(#glass)"/>
-    <circle r="34" fill="url(#accent)" fill-opacity=".92"/>
-    <text x="0" y="-4" text-anchor="middle" fill="#08101A"
-          font-size="21" font-weight="850">ПРОДУКТ</text>
-    <text x="0" y="23" text-anchor="middle" fill="#152033"
-          font-size="16" font-weight="700">под ключ</text>
-
-    <g fill="none" stroke="url(#accent)" stroke-width="2" stroke-opacity=".48">
-      <path d="M0-70V-138"/>
-      <path d="M61-35L128-74"/>
-      <path d="M61 35L128 74"/>
-      <path d="M0 70V138"/>
-      <path d="M-61 35L-128 74"/>
-      <path d="M-61-35L-128-74"/>
+    <g fill="none" stroke="url(#accent)" stroke-width="2.2"
+       stroke-linecap="round" opacity=".55">
+      <path d="M0-74V-111"/>
+      <path d="M-64-37L-112-64"/>
+      <path d="M64-37L112-64"/>
+      <path d="M-64 37L-112 64"/>
+      <path d="M64 37L112 64"/>
+      <path d="M0 74V111"/>
     </g>
 
-    <g font-size="18" font-weight="750" fill="#F3F6FF" text-anchor="middle">
-      <g transform="translate(0 -154)">
-        <circle r="42" fill="url(#glass)"/>
-        <text y="6">TELEGRAM</text>
-      </g>
-      <g transform="translate(142 -82)">
-        <circle r="42" fill="url(#glass)"/>
-        <text y="6">БОТЫ</text>
-      </g>
-      <g transform="translate(142 82)">
-        <circle r="42" fill="url(#glass)"/>
-        <text y="6">АГЕНТЫ</text>
-      </g>
-      <g transform="translate(0 154)">
-        <circle r="42" fill="url(#glass)"/>
-        <text y="6">QA</text>
-      </g>
-      <g transform="translate(-142 82)">
-        <circle r="42" fill="url(#glass)"/>
-        <text y="6">ФАЙЛЫ</text>
-      </g>
-      <g transform="translate(-142 -82)">
-        <circle r="42" fill="url(#glass)"/>
-        <text y="6">API</text>
-      </g>
+    <circle r="82" fill="#FFFFFF" fill-opacity=".035"/>
+    <circle r="68" fill="url(#glass)"/>
+    <path d="M0-38 25-24 0-9-25-24ZM-25-18 0-3v29l-25-15ZM25-18 0-3v29l25-15Z"
+          fill="none" stroke="url(#accent)" stroke-width="3"
+          stroke-linejoin="round"/>
+    <text x="0" y="46" text-anchor="middle" fill="#F7F9FF"
+          font-size="18" font-weight="800" letter-spacing="1">РАБОЧАЯ СИСТЕМА</text>
+
+    <g transform="translate(0 -155)">
+      <circle r="54" fill="#FFFFFF" fill-opacity=".035"/>
+      <circle r="45" fill="#1EAAF1" fill-opacity=".28"/>
+      <path d="M-19-7 20-22 8 21 0 7-10 15-7 3Z"
+            fill="none" stroke="#EAF8FF" stroke-width="3"
+            stroke-linejoin="round"/>
+      <text x="0" y="33" text-anchor="middle" fill="#F5F8FF"
+            font-size="15" font-weight="800">TELEGRAM</text>
+    </g>
+
+    <g transform="translate(-145 -84)">
+      <circle r="54" fill="#FFFFFF" fill-opacity=".035"/>
+      <circle r="45" fill="#6A82FF" fill-opacity=".25"/>
+      <path d="M-17-15h-9v30h9M17-15h9v30h-9M-8 0h16"
+            fill="none" stroke="#EEF2FF" stroke-width="3"
+            stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="-5" cy="0" r="3" fill="#EEF2FF"/>
+      <circle cx="5" cy="0" r="3" fill="#EEF2FF"/>
+      <text x="0" y="33" text-anchor="middle" fill="#F5F8FF"
+            font-size="16" font-weight="800">API</text>
+    </g>
+
+    <g transform="translate(145 -84)">
+      <circle r="54" fill="#FFFFFF" fill-opacity=".035"/>
+      <circle r="45" fill="#A06CF8" fill-opacity=".26"/>
+      <rect x="-20" y="-16" width="40" height="30" rx="9"
+            fill="none" stroke="#F5EEFF" stroke-width="3"/>
+      <path d="M0-23v7M-12 22v-8M12 22v-8"
+            fill="none" stroke="#F5EEFF" stroke-width="3"
+            stroke-linecap="round"/>
+      <circle cx="-9" cy="-1" r="3" fill="#F5EEFF"/>
+      <circle cx="9" cy="-1" r="3" fill="#F5EEFF"/>
+      <path d="M-8 7h16" stroke="#F5EEFF" stroke-width="3"
+            stroke-linecap="round"/>
+      <text x="0" y="33" text-anchor="middle" fill="#F5F8FF"
+            font-size="16" font-weight="800">БОТЫ</text>
+    </g>
+
+    <g transform="translate(-145 84)">
+      <circle r="54" fill="#FFFFFF" fill-opacity=".035"/>
+      <circle r="45" fill="#F1A24D" fill-opacity=".24"/>
+      <path d="M-16-22H9l12 12v31h-37Z"
+            fill="none" stroke="#FFF2E1" stroke-width="3"
+            stroke-linejoin="round"/>
+      <path d="M9-22v12h12M-8-1H12M-8 8H8"
+            fill="none" stroke="#FFF2E1" stroke-width="3"
+            stroke-linecap="round"/>
+      <text x="0" y="33" text-anchor="middle" fill="#F5F8FF"
+            font-size="16" font-weight="800">ФАЙЛЫ</text>
+    </g>
+
+    <g transform="translate(145 84)">
+      <circle r="54" fill="#FFFFFF" fill-opacity=".035"/>
+      <circle r="45" fill="#F06C82" fill-opacity=".24"/>
+      <circle cx="-11" cy="-9" r="9" fill="none"
+              stroke="#FFF0F3" stroke-width="3"/>
+      <circle cx="12" cy="-12" r="7" fill="none"
+              stroke="#FFF0F3" stroke-width="3"/>
+      <path d="M-28 19c1-18 33-18 34 0M5 17c1-13 23-13 25 0"
+            fill="none" stroke="#FFF0F3" stroke-width="3"
+            stroke-linecap="round"/>
+      <text x="0" y="33" text-anchor="middle" fill="#F5F8FF"
+            font-size="16" font-weight="800">АГЕНТЫ</text>
+    </g>
+
+    <g transform="translate(0 155)">
+      <circle r="54" fill="#FFFFFF" fill-opacity=".035"/>
+      <circle r="45" fill="#3DD6A0" fill-opacity=".23"/>
+      <path d="M0-24c8 7 15 8 23 9v13c0 15-10 24-23 31C-13 22-23 13-23-2v-13c8-1 15-2 23-9Z"
+            fill="none" stroke="#E9FFF7" stroke-width="3"
+            stroke-linejoin="round"/>
+      <path d="m-10 1 7 7L11-7" fill="none"
+            stroke="#E9FFF7" stroke-width="3"
+            stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="0" y="38" text-anchor="middle" fill="#F5F8FF"
+            font-size="15" font-weight="800">ПРОВЕРКА</text>
+    </g>
+
+    <g fill="#FFFFFF">
+      <circle cx="-215" cy="-30" r="3" opacity=".5"/>
+      <circle cx="208" cy="4" r="4" opacity=".38"/>
+      <circle cx="-198" cy="150" r="2" opacity=".5"/>
+      <circle cx="208" cy="-146" r="2" opacity=".55"/>
+      <path d="M-210-112h18M-201-121v18" stroke="#52E6FF"
+            stroke-width="2" stroke-linecap="round" opacity=".45"/>
+      <path d="M190 128h16M198 120v16" stroke="#FFAD68"
+            stroke-width="2" stroke-linecap="round" opacity=".45"/>
     </g>
   </g>
 
-  <rect x="62" y="408" width="1076" height="2" rx="1" fill="url(#accent)" opacity=".45"/>
+  <rect x="62" y="413" width="1076" height="2" rx="1"
+        fill="url(#accent)" opacity=".52"/>
 </svg>
