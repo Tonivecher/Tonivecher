@@ -1,94 +1,149 @@
-<h1 align="center">Nikolay · AI Product & Full-Stack Engineer</h1>
-
 <p align="center">
-  I build B2B systems, internal tools and automation that reach production.
+  <img src="./assets/profile/hero.svg" width="100%"
+       alt="Николай — AI Product и Full-Stack инженер. Создаю Telegram-ботов, мультиагентные системы, B2B-продукты и довожу их до продакшена">
 </p>
 
 <p align="center">
-  React · TypeScript · Python · FastAPI · Node.js · PostgreSQL · Product Engineering
-</p>
-
-<p align="center">
-  <a href="https://formalabpro.tech/">Live product</a>
+  <strong>Открыт к удалённой работе</strong>
   ·
   <a href="https://t.me/ai_nickolai">Telegram</a>
   ·
-  Open to remote roles
+  <a href="https://github.com/Tonivecher?tab=repositories">Репозитории</a>
 </p>
 
-## Selected work
+## Не отдельные фичи. Цельные рабочие контуры
 
-### FORMALAB PRO
+Моё сильное место — связать интерфейс, API, данные, Telegram-бота,
+AI-агентов, обработку файлов, контроль качества и решение человека в одну
+систему, которая действительно работает.
 
-[![FORMALAB PRO production interface](assets/formalab.png)](https://formalabpro.tech/)
+<p align="center">
+  <img src="./assets/profile/systems.svg" width="100%"
+       alt="Рабочий контур Николая: Telegram, веб-интерфейс и документы поступают в API, проходят через ботов, агентов и автоматизацию, затем через проверку и решение владельца попадают в продакшен">
+</p>
 
-Production frontend for a custom furniture and architectural millwork studio.
-React 19, TypeScript, motion systems, two visual modes and a structured client
-brief.
+### Что умею связывать
 
-[Live](https://formalabpro.tech/) ·
-[Source](https://github.com/Tonivecher/FORMALABPRO)
+- **AI и мультиагентные системы** — маршрутизация задач по ролям, состояние
+  этапов, артефакты, блокирующий QA и явное одобрение владельца.
+- **Telegram-боты и интеграции** — приватное подключение, команды, уведомления,
+  управление задачами, доставка результатов, webhooks и n8n-сценарии.
+- **Документы и данные** — приём, проверка и обработка PDF, DOCX, XLSX,
+  изображений и текстовых материалов.
+- **Full-Stack продукты** — React, TypeScript, Python, FastAPI, Node.js,
+  Express, PostgreSQL, SQLite, Prisma и REST API.
+- **Продакшен и восстановление** — сборка, тесты, деплой, health-checks,
+  системные сервисы, резервные копии, диагностика и безопасное восстановление.
+- **Продуктовая работа** — превращаю реальный бизнес-процесс в понятный
+  интерфейс, устойчивую модель состояния и проверяемый результат.
 
-### SVT WaterTech Hub
+## Флагманские проекты
 
-[![SVT WaterTech Hub production interface](assets/svt.png)](https://svt.tonivecher.online/)
+### Agent Office — управляемый офис AI-агентов
 
-Industrial B2B product hub with equipment, engineering solutions, calculation
-and proposal flows. Public case study; production source remains private.
+[![Живой офис IT Вершина с мужскими и женскими сотрудниками, рабочими зонами и статусами](./assets/profile/agent-office-live.jpg)](https://vershina.tonivecher.online/)
 
-[Live](https://svt.tonivecher.online/) ·
-[Case study](https://github.com/Tonivecher/svt-watertech-case-study) ·
-Private source
+Живой офис из **18 специализированных ролей**: сотрудники получают поручения,
+работают по этапам, передают результат дальше и остаются под контролем
+владельца. Веб-интерфейс связан с FastAPI-ядром, постоянным состоянием задач,
+файловым контуром и Telegram.
 
-### Agent Office
+**Показывает:** multi-agent orchestration, human-in-the-loop, Telegram control,
+обработку документов, QA-гейты и приватный доступ.
 
-A server-authoritative workspace for routed AI tasks, file intake, owner review
-and Telegram control. The implementation combines a React control surface with
-a FastAPI execution core and durable task state.
+[Живой продукт](https://vershina.tonivecher.online/) ·
+[Публичный кейс](https://github.com/Tonivecher/agent-office-case-study) ·
+исходный код закрыт
 
-`React 19` · `FastAPI` · `SQLite` · `Telegram` · `document processing`
+---
 
-[Case study](https://github.com/Tonivecher/agent-office-case-study) ·
-Private source
+### FORMALAB PRO — продуктовый интерфейс для сложного производства
 
-### Project Control
+[![Интерфейс FORMALAB PRO](./assets/formalab.png)](https://formalabpro.tech/)
 
-An internal operations system connecting project stages, tasks, decisions,
-client questions, reporting and knowledge workflows through a React interface
-and an Express/Prisma backend.
+Продакшен-интерфейс для студии индивидуальной мебели и архитектурных решений:
+портфолио, материалы, инженерный процесс, два визуальных режима и
+структурированный бриф клиента.
 
-`React 19` · `Express` · `Prisma` · `PostgreSQL` · `n8n`
+**Показывает:** продуктовую архитектуру фронтенда, сложный адаптивный UI,
+motion-систему, SEO, валидацию форм и доведение публичного продукта до запуска.
 
-[Case study](https://github.com/Tonivecher/project-control-case-study) ·
-Private source
+[Живой продукт](https://formalabpro.tech/) ·
+[Исходный код](https://github.com/Tonivecher/FORMALABPRO)
 
-## What I work on
+---
 
-- AI-enabled products with explicit human approval gates.
-- Full-stack web systems and operational dashboards.
-- Telegram workflows, file pipelines and business automation.
-- Production handoff: builds, tests, deployment notes and recovery boundaries.
+### SVT WaterTech Hub — промышленный B2B-продукт
 
-## How I build
+[![Интерфейс SVT WaterTech Hub](./assets/svt.png)](https://svt.tonivecher.online/)
+
+Хаб промышленного водоочистного оборудования: каталог, инженерные решения,
+калькулятор, сборка коммерческого предложения, технические документы и
+маршруты обращений.
+
+**Показывает:** работу со сложным предметным содержанием, B2B-воронкой,
+состоянием предложения, формами, визуализацией данных и адаптивной навигацией.
+
+[Живой продукт](https://svt.tonivecher.online/) ·
+[Публичный кейс](https://github.com/Tonivecher/svt-watertech-case-study) ·
+исходный код закрыт
+
+---
+
+### Project Control — операционная система управления проектами
+
+Внутренний продукт, связывающий этапы, задачи, решения, вопросы клиента,
+отчётность, базу знаний и автоматизацию. React-интерфейс работает поверх
+Express, Prisma и PostgreSQL; отдельные процессы описаны n8n-сценариями.
+
+**Показывает:** проектирование внутренних систем, сложную модель состояния,
+рабочие панели, историю решений, контролируемый клиентский доступ и
+операционные интеграции.
+
+[Публичный кейс](https://github.com/Tonivecher/project-control-case-study) ·
+исходный код закрыт
+
+## Инженерный подход
 
 ```text
-Understand the workflow
+Понять реальный процесс
         ↓
-Model the state
+Описать состояние и границы
         ↓
-Ship the smallest complete path
+Собрать короткий рабочий маршрут
         ↓
-Verify the real result
+Проверить результат на живой системе
         ↓
-Document the operational boundary
+Зафиксировать эксплуатацию и восстановление
 ```
 
-I care about clear interfaces, durable state, honest failure handling and
-systems another engineer can continue without reconstructing the whole project.
+Не выдаю макет за продукт и ответ модели за готовый результат. В работе важны
+реальные артефакты, честные ошибки, воспроизводимые проверки и понятная
+передача следующему инженеру.
 
-## Contact
+## Проверенный технический контур
 
-I am open to remote product-engineering and full-stack roles.
+`React 18/19` · `TypeScript` · `Vite` · `Python` · `FastAPI` · `Node.js` ·
+`Express` · `PostgreSQL` · `SQLite` · `Prisma` · `Telegram Bot API` · `n8n` ·
+`Nginx` · `systemd`
 
-[Telegram](https://t.me/ai_nickolai) ·
-[GitHub](https://github.com/Tonivecher)
+Для флагманских кейсов проверялись production-сборки и живые endpoints.
+Agent Office дополнительно проходил frontend workflow-тесты и backend-тесты.
+Точные границы проверки зафиксированы в README каждого кейса.
+
+## Публичная граница
+
+В открытом доступе находятся проверяемые интерфейсы, архитектурные схемы,
+описание моей роли и результаты проверок. Приватными остаются клиентские
+данные, секреты, production-конфигурация, внутренние инструкции и наиболее
+ценная часть исходного кода.
+
+## Связаться
+
+Ищу удалённую работу в направлении **AI Product Engineering / Full-Stack /
+Automation**. Интересны продукты, где нужно не просто написать код, а связать
+людей, данные, интерфейсы и автоматизацию в работающую систему.
+
+[Написать в Telegram](https://t.me/ai_nickolai)
+
+<sub>© 2026 Николай. Материалы портфолио опубликованы для профессиональной оценки.</sub>
