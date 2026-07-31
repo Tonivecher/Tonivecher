@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile/hero.svg" width="100%"
+  <img src="./assets/profile/hero.svg?v=3" width="100%"
        alt="AI-продукты, боты, агенты, интерфейсы и данные: от задачи до работающего продакшена">
 </p>
 
