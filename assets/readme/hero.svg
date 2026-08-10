@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Tonivecher AI Lab</title>
+  <desc id="desc">Продукты для задач, где нужны интерфейс, сервер, автоматизация и запуск.</desc>
+  <defs>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#4499c2" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="cyanGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#16c5ff" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#16c5ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="signal" x1="0" x2="1">
+      <stop stop-color="#16c5ff"/><stop offset="1" stop-color="#45ed73"/>
+    </linearGradient>
+
+  </defs>
+
+  <rect width="1200" height="520" rx="18" fill="#070b0f"/>
+  <rect width="1200" height="520" rx="18" fill="url(#grid)"/>
+  <ellipse cx="1030" cy="55" rx="310" ry="220" fill="url(#cyanGlow)"/>
+  <path d="M0 1H1200M0 519H1200" stroke="#a4cce0" stroke-opacity=".16"/>
+
+  <g transform="translate(66 52)">
+    <path d="M0 8H34" stroke="#16c5ff" stroke-width="2"/>
+    <text x="48" y="14" fill="#a7bac6" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" letter-spacing="2.4">AI PRODUCT ENGINEERING</text>
+    <rect x="500" y="-3" width="92" height="25" fill="none" stroke="#16c5ff" stroke-opacity=".48"/>
+    <text x="515" y="14" fill="#16c5ff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1.4">LAB / 01</text>
+  </g>
+
+  <g fill="#edf5fa" transform="translate(66.00 168.00) scale(0.021484 -0.021484)"><path d="M862 0V1376H94V1536H1822V1376H1054V0Z" transform="translate(0.00 0)"/><path d="M871 -32Q646 -32 501.0 -1.5Q356 29 274.5 111.0Q193 193 160.5 347.0Q128 501 128 748V788Q128 992 148.0 1130.5Q168 1269 217.0 1356.0Q266 1443 350.5 1489.0Q435 1535 563.0 1551.5Q691 1568 871 1568H1274Q1454 1568 1582.0 1551.5Q1710 1535 1794.5 1489.0Q1879 1443 1928.0 1356.0Q1977 1269 1997.0 1130.5Q2017 992 2017 788V748Q2017 501 1984.5 347.0Q1952 193 1870.5 111.0Q1789 29 1644.0 -1.5Q1499 -32 1274 -32ZM871 134H1274Q1417 134 1515.0 144.0Q1613 154 1674.5 187.0Q1736 220 1768.5 287.0Q1801 354 1813.0 466.0Q1825 578 1825 748V788Q1825 964 1813.0 1078.0Q1801 1192 1768.5 1258.0Q1736 1324 1674.5 1354.5Q1613 1385 1515.0 1393.5Q1417 1402 1274 1402H871Q728 1402 630.0 1393.5Q532 1385 470.5 1354.5Q409 1324 376.5 1258.0Q344 1192 332.0 1078.0Q320 964 320 788V748Q320 578 332.0 466.0Q344 354 376.5 287.0Q409 220 470.5 187.0Q532 154 630.0 144.0Q728 134 871 134Z" transform="translate(1892.73 0)"/><path d="M192 0V1536H392L1935 237H1937V1536H2129V0H1929L386 1310H384V0Z" transform="translate(4014.45 0)"/><path d="M192 0V1536H384V0Z" transform="translate(6312.18 0)"/><path d="M896 0 68 1536H288L1024 136L1760 1536H1977L1152 0Z" transform="translate(6864.91 0)"/><path d="M192 0V1536H1700V1376H384V864H1645V704H384V160H1728V0Z" transform="translate(8889.64 0)"/><path d="M128 748V788Q128 992 148.0 1130.5Q168 1269 217.0 1356.0Q266 1443 350.5 1489.0Q435 1535 563.0 1551.5Q691 1568 871 1568H1274Q1480 1568 1621.5 1548.5Q1763 1529 1849.5 1471.5Q1936 1414 1975.0 1302.5Q2014 1191 2014 1007H1822Q1822 1152 1796.0 1232.5Q1770 1313 1708.5 1349.0Q1647 1385 1541.0 1393.5Q1435 1402 1274 1402H871Q728 1402 630.0 1393.5Q532 1385 470.5 1354.5Q409 1324 376.5 1258.0Q344 1192 332.0 1078.0Q320 964 320 788V748Q320 578 332.0 466.0Q344 354 376.5 287.0Q409 220 470.5 187.0Q532 154 630.0 144.0Q728 134 871 134H1274Q1435 134 1541.0 141.0Q1647 148 1708.5 182.0Q1770 216 1796.0 295.5Q1822 375 1822 519H2014Q2014 335 1975.0 225.0Q1936 115 1849.5 59.5Q1763 4 1621.5 -14.0Q1480 -32 1274 -32H871Q646 -32 501.0 -1.5Q356 29 274.5 111.0Q193 193 160.5 347.0Q128 501 128 748Z" transform="translate(10658.36 0)"/><path d="M196 0V1536H388V864H1796V1536H1988V0H1796V704H388V0Z" transform="translate(12780.09 0)"/><path d="M192 0V1536H1700V1376H384V864H1645V704H384V160H1728V0Z" transform="translate(14940.82 0)"/><path d="M196 1536H1224Q1449 1536 1586.5 1516.0Q1724 1496 1795.0 1447.0Q1866 1398 1891.0 1313.0Q1916 1228 1916 1098V1058Q1916 938 1887.5 851.5Q1859 765 1778.0 711.5Q1697 658 1538 636L1872 0H1680L1353 622Q1333 621 1311.5 621.0Q1290 621 1267 621H388V0H196ZM388 787H1237Q1408 787 1506.5 798.5Q1605 810 1651.5 839.0Q1698 868 1711.0 921.0Q1724 974 1724 1058V1098Q1724 1193 1706.0 1248.0Q1688 1303 1634.0 1329.0Q1580 1355 1473.0 1362.5Q1366 1370 1187 1370H388Z" transform="translate(16709.55 0)"/></g>
+  <g fill="#16c5ff" transform="translate(68.00 215.00) scale(0.009766 -0.009766)"><path d="M64 0 960 1536H1216L2112 0H1888L1696 352H480L288 0ZM576 512H1600L1088 1408Z" transform="translate(0.00 0)"/><path d="M192 0V1536H384V0Z" transform="translate(2585.60 0)"/><path d="M192 0V1536H384V160H1600V0Z" transform="translate(4562.80 0)"/><path d="M64 0 960 1536H1216L2112 0H1888L1696 352H480L288 0ZM576 512H1600L1088 1408Z" transform="translate(6636.40 0)"/><path d="M192 0V1536H1416Q1590 1536 1701.5 1503.5Q1813 1471 1866.5 1388.5Q1920 1306 1920 1155Q1920 1019 1857.0 930.0Q1794 841 1664 832Q1834 815 1909.0 710.5Q1984 606 1984 448Q1984 311 1952.5 223.0Q1921 135 1847.0 86.5Q1773 38 1646.5 19.0Q1520 0 1331 0ZM384 896H1279Q1434 896 1533.0 907.0Q1632 918 1680.0 972.0Q1728 1026 1728 1155Q1728 1256 1699.5 1303.0Q1671 1350 1603.0 1363.0Q1535 1376 1416 1376H384ZM384 160H1331Q1468 160 1557.5 167.0Q1647 174 1698.5 201.0Q1750 228 1771.0 286.5Q1792 345 1792 448Q1792 554 1752.5 613.0Q1713 672 1642.5 698.0Q1572 724 1479.0 730.0Q1386 736 1279 736H384Z" transform="translate(9222.00 0)"/></g>
+  <text x="66" y="287" fill="#aebdc6" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="23">
+    Делаю продукты, когда одного сайта или бота мало.
+  </text>
+  <text x="66" y="320" fill="#edf5fa" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="650">
+    Интерфейс, сервер и автоматизация.
+  </text>
+  <text x="66" y="350" fill="#edf5fa" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="650">
+    Запуск тоже беру на себя.
+  </text>
+
+  <g transform="translate(66 376)">
+    <rect width="256" height="54" fill="#16c5ff"/>
+    <text x="24" y="34" fill="#00131a" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="700" letter-spacing="1.3">OPEN TO REMOTE WORK</text>
+    <rect x="272" width="184" height="54" fill="#ffffff" fill-opacity=".025" stroke="#a4cce0" stroke-opacity=".22"/>
+    <text x="296" y="34" fill="#c5d2d9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" letter-spacing="1.3">MOSCOW / UTC+3</text>
+  </g>
+
+  <g transform="translate(730 62)">
+    <rect width="404" height="382" rx="12" fill="#080c10" stroke="#79bedb" stroke-opacity=".34"/>
+    <path d="M0 46H404" stroke="#a4cce0" stroke-opacity=".16"/>
+    <circle cx="22" cy="23" r="5" fill="#ff4f55"/>
+    <circle cx="40" cy="23" r="5" fill="#ffbd18"/>
+    <circle cx="58" cy="23" r="5" fill="#45ed73"/>
+    <text x="78" y="28" fill="#60717d" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.3">TONIVECHER / SYSTEM FLOW</text>
+    <circle cx="337" cy="23" r="4" fill="#45ed73"/>
+    <text x="348" y="28" fill="#45ed73" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.2">LIVE</text>
+
+    <g transform="translate(24 74)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+      <text x="0" y="12" fill="#16c5ff" font-size="12" letter-spacing="1.8">INPUT SIGNAL</text>
+      <rect x="0" y="30" width="356" height="48" fill="#0e151c" stroke="#a4cce0" stroke-opacity=".16"/>
+      <text x="16" y="59" fill="#c5d2d9" font-size="15">Telegram · Web · Files · API</text>
+      <path d="M178 78V107" stroke="#16c5ff"/>
+      <path d="M173 102L178 107L183 102" fill="none" stroke="#16c5ff"/>
+
+      <rect x="0" y="108" width="356" height="82" fill="#111a22" stroke="#16c5ff" stroke-opacity=".5"/>
+      <text x="16" y="134" fill="#60717d" font-size="11" letter-spacing="1.5">CONTROL CORE / 02</text>
+      <text x="16" y="165" fill="#edf5fa" font-size="19">API · state · access · history</text>
+      <circle cx="329" cy="149" r="7" fill="#45ed73"/>
+      <path d="M178 190V219" stroke="#45ed73"/>
+      <path d="M173 214L178 219L183 214" fill="none" stroke="#45ed73"/>
+
+      <g transform="translate(0 220)">
+        <rect width="110" height="66" fill="#0e151c" stroke="#a4cce0" stroke-opacity=".16"/>
+        <rect x="123" width="110" height="66" fill="#0e151c" stroke="#a4cce0" stroke-opacity=".16"/>
+        <rect x="246" width="110" height="66" fill="#0e151c" stroke="#a4cce0" stroke-opacity=".16"/>
+        <text x="14" y="27" fill="#16c5ff" font-size="11">01 / WORK</text><text x="14" y="49" fill="#edf5fa" font-size="14">AGENTS</text>
+        <text x="137" y="27" fill="#d248ff" font-size="11">02 / QA</text><text x="137" y="49" fill="#edf5fa" font-size="14">HUMAN</text>
+        <text x="260" y="27" fill="#45ed73" font-size="11">03 / SHIP</text><text x="260" y="49" fill="#edf5fa" font-size="14">PROD</text>
+      </g>
+    </g>
+  </g>
+
+  <g transform="translate(66 478)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">
+    <text fill="#16c5ff">REACT</text><text x="92" fill="#60717d">/</text>
+    <text x="116" fill="#edf5fa">FASTAPI</text><text x="230" fill="#60717d">/</text>
+    <text x="254" fill="#edf5fa">POSTGRESQL</text><text x="396" fill="#60717d">/</text>
+    <text x="420" fill="#edf5fa">TELEGRAM</text><text x="536" fill="#60717d">/</text>
+    <text x="560" fill="#45ed73">PRODUCTION</text>
+  </g>
+
+</svg>
