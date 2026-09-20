@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%"
+  <img src="./assets/readme/hero.gif" width="100%"
        alt="Tonivecher AI Lab — интерфейс, сервер, автоматизация и запуск в одной работе">
 </p>
 
 <p align="center">
-  <a href="https://t.me/ai_nickolai"><strong>Telegram</strong></a>
+  <a href="https://t.me/ai_nickolai"><strong>Telegram (@ai_nickolai)</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Tonivecher?tab=repositories"><strong>Репозитории</strong></a>
   &nbsp;·&nbsp;
@@ -23,7 +23,7 @@
 как части одной системы, а не как пять отдельных поделок.
 
 <p align="center">
-  <img src="./assets/readme/system-route.svg" width="100%"
+  <img src="./assets/readme/system-route.gif" width="100%"
        alt="Маршрут системы: каналы, API и состояние, боты и агенты, проверка человеком, выпуск в продакшен">
 </p>
 
@@ -51,7 +51,22 @@
 
 ---
 
-### 02 / AZIZ Photography Platform
+### 02 / Avalon Ballroom Platform
+
+[![Платформа бального танца с Telegram CMS и AI-копирайтером](./assets/profile/avalon-dance-platform.jpg)](https://avalon.tonivecher.online/)
+
+Цифровая экосистема для премиального танцевально-спортивного клуба: веб-портал в эстетике *«Дворцовый ночной люкс»* (Tailwind v4), сквозная синхронизация с Telegram-каналом в реальном времени и интерактивная CMS для наставников.
+
+При публикации фото и анонсов турниров в Telegram-канале сервис перехватывает событие, сохраняет медиа и мгновенно обновляет сайт за 0.4 сек. В Telegram-боте тренеры управляют расписанием, составом наставников и статусом зала, а встроенный Gemini 2.5 Flash генерирует тексты без AI-слопа и шаблонных штампов.
+
+`REACT 19` · `BUN` · `GRAMMY` · `GEMINI 2.5 FLASH` · `TELEGRAM CMS` · `TAILWIND V4`
+
+[Открыть живую платформу ↗](https://avalon.tonivecher.online/) ·
+[Разобрать публичный кейс ↗](https://github.com/Tonivecher/avalon-dance-club)
+
+---
+
+### 03 / AZIZ Photography Platform
 
 [![Сайт фотографа Азиза с записью через Telegram-бота](./assets/profile/aziz-photography-platform.png)](https://aziz.tonivecher.online/)
 
@@ -70,7 +85,7 @@ SQLite, обработка изображений и публичная гале
 
 ---
 
-### 03 / FORMALAB PRO
+### 04 / FORMALAB PRO
 
 [![Интерфейс FORMALAB PRO](./assets/formalab.png)](https://formalabpro.tech/)
 
@@ -89,7 +104,7 @@ SQLite, обработка изображений и публичная гале
 
 ---
 
-### 04 / SVT WaterTech Hub
+### 05 / SVT WaterTech Hub
 
 [![Интерфейс SVT WaterTech Hub](./assets/svt.png)](https://svt.tonivecher.online/)
 
@@ -108,7 +123,7 @@ SQLite, обработка изображений и публичная гале
 
 ---
 
-### 05 / Project Control
+### 06 / Project Control
 
 Закрытая система для проектов, которые раньше жили одновременно в таблицах,
 чатах и головах участников. В одном месте собраны этапы, задачи, вопросы
@@ -169,9 +184,10 @@ SQLite, обработка изображений и публичная гале
 публичном кейсе отдельно написал, что именно проверял — без расплывчатого
 «всё протестировано».
 
-> Клиентские данные, ключи, серверные конфиги и внутренние инструкции я не
-> публикую. Для закрытых проектов показываю только то, по чему можно оценить мою
-> работу: интерфейс, устройство системы и проверяемый результат.
+> [!NOTE]
+> **🔒 Защита коммерческой тайны (Proprietary & NDA Notice)**  
+> Клиентские данные, закрытые ключи, серверные конфиги и проприетарные пайплайны (алгоритмы синхронизации медиа, системные промпт-цепочки и скоринг заявок) не публикуются в открытом доступе. Для коммерческих проектов показываю проверенную архитектуру, строгую типизацию и реальный работающий результат.  
+> Полная интеграция и enterprise-внедрение — по прямому контакту в Telegram: [@ai_nickolai](https://t.me/ai_nickolai).
 
 <p align="center">
   <img src="./assets/readme/section-contact.svg" width="100%"
