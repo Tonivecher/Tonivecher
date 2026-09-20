@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.gif" width="100%"
+  <img src="./assets/readme/hero.svg" width="100%"
        alt="Tonivecher AI Lab — интерфейс, сервер, автоматизация и запуск в одной работе">
 </p>
 
@@ -23,7 +23,7 @@
 как части одной системы, а не как пять отдельных поделок.
 
 <p align="center">
-  <img src="./assets/readme/system-route.gif" width="100%"
+  <img src="./assets/readme/system-route.svg" width="100%"
        alt="Маршрут системы: каналы, API и состояние, боты и агенты, проверка человеком, выпуск в продакшен">
 </p>
 
