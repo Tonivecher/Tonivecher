@@ -15,10 +15,10 @@
 
   </defs>
 
-  <rect width="1200" height="520" rx="18" fill="#070b0f"/>
-  <rect width="1200" height="520" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="520" fill="#070b0f"/>
+  <rect width="1200" height="520" fill="url(#grid)"/>
   <ellipse cx="1030" cy="55" rx="310" ry="220" fill="url(#cyanGlow)"/>
-  <path d="M0 1H1200M0 519H1200" stroke="#a4cce0" stroke-opacity=".16"/>
+  <rect x="1" y="1" width="1198" height="518" rx="16" fill="none" stroke="#a4cce0" stroke-opacity=".16" stroke-width="1"/>
 
   <g transform="translate(66 52)">
     <path d="M0 8H34" stroke="#16c5ff" stroke-width="2"/>

@@ -34,7 +34,7 @@
 
 ### 01 / Agent Office
 
-[![Офис IT Вершина с сотрудниками, рабочими зонами и живыми статусами](./assets/profile/agent-office-live.jpg)](https://vershina.tonivecher.online/)
+[![Офис IT Вершина с сотрудниками, рабочими зонами и живыми статусами](./assets/profile/agent-office-showcase.jpg)](https://vershina.tonivecher.online/)
 
 Мой основной проект. Внутри работают **18 AI-сотрудников** с разными ролями:
 разработчик, дизайнер, аналитик, тестировщик и другие. Им можно поставить задачу,
